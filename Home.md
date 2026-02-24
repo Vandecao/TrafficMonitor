@@ -1,9 +1,9 @@
 [Portugues PT-BR](https://github.com/Vandecao/TrafficMonitor/wiki/Home_PT-BR)| [Inglês]
 
-Bem-vindo(a) à wiki do TrafficMonitor!
+Welcome to the TrafficMonitor wiki!
 
-O TrafficMonitor é um software de janela suspensa para Windows que pode ser usado para monitoramento da velocidade da rede.
+TrafficMonitor is a pop-up window for Windows that can be used to monitor network speed.
 
-Aqui você pode aprender sobre as funções e o uso detalhado do TrafficMonitor.
+Here you can learn about the functions and detailed usage of TrafficMonitor.
 
-A principal função do TrafficMonitor é exibir a velocidade atual da rede, o uso da CPU e da memória do computador. A interface principal inclui uma janela principal (janela suspensa da área de trabalho) e uma janela da barra de tarefas.
+The main function of TrafficMonitor is to display the current network speed, CPU usage, and computer memory usage. The main interface includes a main window (a pop-up window on the desktop) and a taskbar window.
