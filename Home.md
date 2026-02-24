@@ -1,4 +1,4 @@
-[Portugues PT-BR](https://github.com/Vandecao/TrafficMonitor/wiki/Home| [Inglês])
+[Portugues PT-BR](https://github.com/Vandecao/TrafficMonitor/wiki/Home| [Inglês]
 
 Bem-vindo(a) à wiki do TrafficMonitor!
 
