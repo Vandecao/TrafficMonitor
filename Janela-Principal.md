@@ -15,4 +15,4 @@ When you point at it with your mouse, a tool tip will be displayed:
 
 The tool tip displays the used traffic today, detailed memory usage, and other information not displayed in the main window.
 
-If you don't want to display this tool tip, you can close the mouse tool tip in [Option settings - Main window settings](https://github.com/zhongyang219/TrafficMonitor/wiki/Option-Settings#Main-Window-Settings). Please refer to the chapter [Main window settings](https://github.com/zhongyang219/TrafficMonitor/wiki/Option-Settings#Main-Window-Settings) in Option Settings for detail.
+If you don't want to display this tool tip, you can close the mouse tool tip in [Option settings - Main window settings](https://github.com/Vandecao/TrafficMonitor/wiki/Option-Settings#Main-Window-Settings). Please refer to the chapter [Main window settings](https://github.com/Vandecao/TrafficMonitor/wiki/Option-Settings#Main-Window-Settings) in Option Settings for detail.
