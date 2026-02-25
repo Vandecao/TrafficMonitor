@@ -1,18 +1,21 @@
-Portugues PT-BR| [English](https://github.com/Vandecao/TrafficMonitor/wiki/Home)
+**简体中文 | [English](Main-Window)**
 
-TrafficMonitor main window description (desktop suspension window)
-When TrafficMonitor is started for the first time, it will display a suspension window as shown below on the desktop:
+### TrafficMonitor主窗口（桌面悬浮窗）说明
 
-<img width="628" height="642" alt="image" src="https://github.com/user-attachments/assets/46ac7407-54e8-410d-a94a-bd30e6efc275" />
+TrafficMonitor在首次启动的时候，会在桌面显示一个如下所示的悬浮窗：
 
-By default, only upload and download speeds are displayed.
+<img src="./images/image3.jpg" style="zoom:80%;" />
 
-If you want to display CPU and memory usage, you can right click on the main window and select "Show More Info" from the context menu.
+默认情况下，只显示上传和下载速度。
 
+如果你希望它显示CPU和内存利用率，你可以在主窗口上点击鼠标右键，在右键菜单中选择“显示更多信息”。
 
-When you point at it with your mouse, a tool tip will be displayed:
+<img src="./images/image2.jpg" style="zoom:80%;" />
 
+当你用鼠标指向它时，会显示一个鼠标提示信息：
 
-The tool tip displays the used traffic today, detailed memory usage, and other information not displayed in the main window.
+<img src="./images/image4.jpg" style="zoom:80%;" />
 
-If you don't want to display this tool tip, you can close the mouse tool tip in [Option settings - Main window settings](https://github.com/Vandecao/TrafficMonitor/wiki/Option-Settings#Main-Window-Settings). Please refer to the chapter [Main window settings](https://github.com/Vandecao/TrafficMonitor/wiki/Option-Settings#Main-Window-Settings) in Option Settings for detail.
+鼠标提示信息中会显示今日已使用的流量，内存详细使用，以及其他未在主窗口中显示的信息。
+
+如果你不希望它显示这个鼠标提示，可以在“[选项设置](选项设置)”——“主窗口设置”中关闭鼠标提示的显示，详情请参见“[选项设置](选项设置)”中“主窗口设置”章节。
